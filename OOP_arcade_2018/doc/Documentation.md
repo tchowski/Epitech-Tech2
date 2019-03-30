@@ -52,13 +52,9 @@ Same think for games by using "Shift + 3" or "Shift 4"
 * C++
 * Dynamic libraries
 
-## Authors
+## Author
 
 * **Mathieu Olechowski** - *Core architecture && Libraries*
-
-* **Noah** - *Games*
-
-* **Julie** - *Games*
 
 ## License
 
@@ -69,3 +65,4 @@ This project is licensed under the Epitech License
 * C++
 * GroupWorking
 * etc
+
