@@ -1,0 +1,37 @@
+/*
+** PATRICIA PROJECT, 2019
+** ChansonPourLondres.txt
+** File description:
+** Princesse
+*/
+
+Titre:
+
+"ChansonPourLondres"
+
+Paroles:
+
+Verse1:
+
+He said, we have got the time... sooooo
+Don't worry about the train to London
+
+She knews there's something going wrong
+And then she started to worries...
+about the train to London..
+
+Refrain:
+
+She never knew how could you fall in love
+/* peta un bus ! */
+She told me to write a Song About London
+
+Verse2:
+
+Tell me about the night we met before
+and the... long story.. about you at London
+
+This song is repeating enought but
+don't worry next time, it will be us to London
+
+SingForLondon
